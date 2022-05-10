@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React and TypeScript**
 
-- 👨‍💻 All of my projects are available at [bryonverdone.com](bryonverdone.com)
-
 - 📫 How to reach me **bmverdone@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding I'm probably making music with my band https://thepossmband.com/**
