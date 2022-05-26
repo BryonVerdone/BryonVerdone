@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **When I'm not coding I'm probably making music with my band https://thepossmband.com/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
