@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryon</h1>
 <h3 align="center">A Web Developer</h3>
 
-- 🌱 I’m currently learning **React and TypeScript**
 
 - 📫 How to reach me **bmverdone@gmail.com**
 
