@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Open Source OT](https://github.com/BryonVerdone/opensourceot)
 
-- 👨‍💻 All of my projects are available at [bryonverdone.com](bryonverdone.com)
+- 👨‍💻 All of my projects are available at [bryonverdone.com](https://www.bryonverdone.com/)
 
 - 📫 How to reach me **bmverdone@gmail.com**
 
