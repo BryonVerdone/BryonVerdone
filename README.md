@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/_thebryguy" target="blank"><img src="https://img.shields.io/twitter/follow/_thebryguy?logo=twitter&style=for-the-badge" alt="_thebryguy" /></a> </p>
 
-- 🔭 I’m currently working on [Open Source OT](https://github.com/BryonVerdone/opensourceot)
+
+- :pencil: My blog can be found at [myjsjourney.com](https://myjsjourney.com)
 
 - 👨‍💻 All of my projects are available at [bryonverdone.com](https://www.bryonverdone.com/)
 
