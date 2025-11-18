@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bryon</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Senior Systems Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/_thebryguy" target="blank"><img src="https://img.shields.io/twitter/follow/_thebryguy?logo=twitter&style=for-the-badge" alt="_thebryguy" /></a> </p>
 
-
-- :pencil: My blog can be found at [myjsjourney.com](https://myjsjourney.com)
 
 - 👨‍💻 All of my projects are available at [bryonverdone.com](https://www.bryonverdone.com/)
 
